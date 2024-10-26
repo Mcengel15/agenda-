@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">G2s21_ddim_practica1_ARMM</string>
+
+    //datos de ingreso
+    <string name="titulo">Agenda personal</string>
+    <string name="p1nombre">ingrese su Nombre</string>
+    <string name="p1Edad">ingrese la edad </string>
+    <string name="p1correo">ingrese el correo</string>
+
+    //hint
+    <string name="hnombre">Nombre</string>
+    <string name="hedad">Edad</string>
+    <string name="hcorreo">Correo</string>
+
+    //botones
+    <string name="guadar">Guardar</string>
+    <string name="salir">salir</string>
+
+</resources>
